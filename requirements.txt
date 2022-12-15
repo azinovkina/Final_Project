@@ -1,0 +1,10 @@
+pytest
+selenium
+termcolor
+pytest-selenium
+webdriver-manager
+delayed-assert
+allure-pytest
+allure-python-commons
+
+#pip install -r requirements.txt
